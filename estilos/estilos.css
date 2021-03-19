@@ -107,3 +107,7 @@ li{
     display: flex;
     justify-content: center;
 }
+@font-face{
+    font-family: rr beaver;
+    src: url(../tipografia/beaver.ttf);
+}
